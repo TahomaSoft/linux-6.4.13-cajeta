@@ -562,9 +562,12 @@
 	status = "okay";
 };
 
+/*
 &rng {
 	status = "okay";
 };
+
+*/
 
 &saradc {
 	vref-supply = <&vcca_1v8>;
